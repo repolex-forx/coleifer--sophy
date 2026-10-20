@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/coleifer/sophy/commit/6ba13fb5eeba8664106830f90e5449dcc6819c47",
       "git:hexsha": "6ba13fb5eeba8664106830f90e5449dcc6819c47",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.7.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.7.1",
+      "repolex:parsedAt": "2026-10-20T21:03:24.697595+00:00"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/sophy/commit/c97e3259e552fc1e799be2443091548782e43f3c",
