@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "coleifer",
+  "repo": "sophy",
+  "versions": [
+    {
+      "commit": "6ba13fb5eeba8664106830f90e5449dcc6819c47",
+      "parsed_at": "2026-10-20T20:57:38.867062+00:00",
+      "tag": "0.7.1",
+      "filetree": "filetree/6ba13fb5eeba8664106830f90e5449dcc6819c47.nq.gz",
+      "blobs": [
+        "blob/551a5c08de6cc63530c13bf756ca1c35448d197e.nq.gz",
+        "blob/c96c4828699ca3843db4631f687d7851d533691b.nq.gz",
+        "blob/75ad2d469853061303cbb0c407470a289bd46fab.nq.gz",
+        "blob/d6af27343e586eb3fcb1e0eaaa43d639bc970e53.nq.gz",
+        "blob/3c1cc0bfa279e5312873e9450db509f981929ccb.nq.gz",
+        "blob/69c39fd3f5cfe429882ab58573b7d4b891605a84.nq.gz",
+        "blob/ca2568f7d0e4bfcff875e02aeaf794abde3300b1.nq.gz",
+        "blob/d90a5f3d4cbd693b2c8b17dc2c4dea1b4df5872c.nq.gz",
+        "blob/b202e4ca0613397aca1189f49471479771ea5e7b.nq.gz",
+        "blob/3aef21d5d5693135d8980f08f9f8e3326698f0ef.nq.gz",
+        "blob/a0637b46fe8716b0bde9f41fac121f6e26b77301.nq.gz",
+        "blob/862a18542c178ed738bdee3ab43628b08b44dec8.nq.gz",
+        "blob/07d5fc6d1d68225457ec5a434ec507c940a577e9.nq.gz",
+        "blob/92d906595cbf1df47bd1628c1ff80d8b51922ba1.nq.gz",
+        "blob/1156dae80463fd710d80ea8604d1ba3887d4d7d6.nq.gz",
+        "blob/d0af7d225c979ec8b441af52ad30ca2bd85f06b2.nq.gz",
+        "blob/5d6375c8b03bd18caec8800a843d348664fd89d0.nq.gz",
+        "blob/3565a0958ec6b022d11c46f5a27d8262ee405b54.nq.gz",
+        "blob/58519b61f5a93b06a1266c9ffe52ebe6e60c6e65.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
